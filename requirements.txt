@@ -1,0 +1,8 @@
+numpy
+seaborn
+graphviz
+scipy
+sklearn
+matplotlib
+scikit-learn
+networkx
