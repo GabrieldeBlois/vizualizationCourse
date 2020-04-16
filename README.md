@@ -1,5 +1,5 @@
-# Vizualization of massive data
-EPITECH course vizualization of massive data
+# Vizualisation of massive data
+EPITECH course vizualisation of massive data
 
 ## Project goal
 blablabla
