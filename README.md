@@ -1,4 +1,4 @@
-# GraphsAndMatching
+# Vizualization of massive data
 EPITECH course vizualization of massive data
 
 ## Project goal
